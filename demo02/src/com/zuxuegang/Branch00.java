@@ -1,7 +1,7 @@
 package com.zuxuegang;
 
-public class TMainTest {
+public class Branch00 {
     public static void main(String[] args) {
-        System.out.println(12345);
+        System.out.println("master");
     }
 }
